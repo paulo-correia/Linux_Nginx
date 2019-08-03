@@ -16,8 +16,6 @@ Instale o pacote do nginx com o comando:
 
  `apt-get install nginx`
 
-Teste abrindo o IP do servidor/máquina num navegador
-
 ### CentOS
 
  Instale o repositório EPEL com o comando:
@@ -31,3 +29,7 @@ Inicie o serviço com o comando:
 Coloque o serviço para ser carregado no boot com o comando:
 
  ` systemctl enable nginx`
+
+## Testes
+
+Teste abrindo o IP do servidor/máquina num navegador
