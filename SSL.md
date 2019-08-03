@@ -6,7 +6,7 @@ Toda a instalação é feita como **root**
 
 Crie a pasta ssl dentro de /etc/nginx usando o comando:
 
-mkdir /etc/nginx/ssl
+`mkdir /etc/nginx/ssl`
 
 ### Exemplo de configuração
 Arquivo /etc/nginx/conf.d/example_ssl.conf:
