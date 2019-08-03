@@ -1,6 +1,6 @@
 # Nginx
 
-[](https://github.com/paulo-correia/Linux_Nginx/blob/master/Nginx_logo.png)
+![](https://github.com/paulo-correia/Linux_Nginx/blob/master/Nginx_logo.png)
 
 Nginx \[engine x\] é um servidor proxy HTTP e reverso, bem como um servidor de proxy de email, escrito por Igor Sysoev desde 2005.
 
