@@ -8,7 +8,7 @@ O Nginx é um servidor web rápido, leve, e com inúmeras possibilidades de conf
 
 ## Instalação
 
-Toda a instalação é feita como root
+Toda a instalação é feita como **root**
 
 ### Debian
 
